@@ -1,4 +1,5 @@
-# 레티봇(LETi_Bot)
+<h1>레티봇(LETi_Bot)</h1>
+<hr />
 
 
 <h3>사용한 서비스 - API, AWS</h3>
