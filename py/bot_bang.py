@@ -212,7 +212,7 @@ def message():
         response = {
             "message": {
                 "text":
-                    "링크 :\n" + s3_upload.app("qr_gen.png") + "\n유의사항 : 링크는 7일 후 만료됩니다."
+                    "링크 :\n" + s3_upload.app("qr_code.png") + "\n유의사항 : 링크는 7일 후 만료됩니다."
 
             }
         }
