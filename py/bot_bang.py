@@ -38,7 +38,7 @@ https://www.data.go.kr/dataset/15000175/openapi.do <= 버스도착정보 조회 
 https://www.data.go.kr/dataset/15000303/openapi.do <= 정류소정보조회 서비스 참고
 
 
-QR코드 인식은 pyqrcode 모듈을 사용했습니다.
+QR코드 생성은 pyqrcode 모듈을 사용했습니다.
 
 QR코드 생성은 pyzbar 모듈, PIL 라이브러리를 사용했습니다.
 *카카오톡 봇은 로컬파일을 전송하지 못합니다.
