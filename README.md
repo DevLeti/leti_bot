@@ -13,7 +13,7 @@
 1. flask
 2. pyqrcode
 3. pyzbar
-4. Pillow(또는 PIL도 가능하나, Pillow를 추천합니다.)
+4. PIL
 5. boto3
 6. urllib(기본 모듈)
 
